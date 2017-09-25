@@ -53,7 +53,7 @@ Personal Experience with Open Source - Mark, Bader
 
 Open Data - Adi, Chris, Kevin, Ryan
 
-Open Politics
+Open Politics - Mike
 
 Open Law - Charlie, Abby, Matt
 
